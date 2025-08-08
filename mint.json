@@ -54,7 +54,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Inicie por aqui",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
